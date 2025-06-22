@@ -1,0 +1,9 @@
+/apps
+.yarn/
+.github/
+.changeset/
+.env*
+.vscode/
+.turbo/
+__mocks__/
+scripts/
